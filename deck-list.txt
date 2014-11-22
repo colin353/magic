@@ -1,0 +1,108 @@
+
+--- Lands ---
+
+ 1. Tranquil Thicket
+ 2. Boros Garrison
+ 3. Boros Guildgate
+ 4. Khalni Garden
+ 5. Vitu-Ghazi, the City-Tree
+ 6. Opal Palace
+ 7. Sacred Foundry
+ 8. Vivid Crag
+ 9. Forgotten Cave
+ 10. Evolving Wilds
+ 11. Temple Garden
+ 12. Jungle Shrine
+ 13. Selesnya Guildgate
+ 14. Temple of Abandon
+ 15. Naya Panorama
+ 16. Temple of the False God
+ 17. Smoldering Crater
+ 18. Selesnya Sanctuary
+ 19. Clifftop Retreat
+ 20. Temple of Triumph
+ 21. Secluded Steppe
+ 22. Mosswort Bridge
+ 23. Slippery Karst
+ 24. Rupture Spire
+ 25. Stomping Ground
+ 26. Drifting Meadow
+ 27. Homeward Path
+ 28. Temple of Plenty
+ 29. Contested Cliffs
+ 30. New Benalia
+ 31. Rootbound Crag
+ 32. Gruul Guildgate
+ 33. Command Tower
+ 34. Forest
+ 35. Forest
+ 36. Forest
+ 37. Forest
+ 38. Forest
+ 39. Forest
+ 40. Plains
+ 41. Plains
+ 42. Mountain
+ 43. Mountain
+
+--- Creatures ---
+
+ 44. Vulpine Goliath 		[{'green': 2, 'colorless': 4}]
+ 45. Rampaging Baloths 		[{'green': 2, 'colorless': 4}]
+ 46. Spellbreaker Behemoth 	[{'red': 1, 'colorless': 1, 'green': 2}]
+ 47. Archangel 				[{'colorless': 5, 'white': 2}]
+ 48. Baloth Woodcrasher 	[{'green': 2, 'colorless': 4}]
+ 49. Deadwood Treefolk 		[{'green': 1, 'colorless': 5}]
+ 50. Crater Hellion 		[{'red': 2, 'colorless': 4}]
+ 51. Magus of the Arena 	[{'red': 2, 'colorless': 4}]
+ 52. Phalanx Leader 		[{'white': 2}]
+ 53. Ghostblade Eidolon 	[{'colorless': 2, 'white': 1}]
+ 54. Hooting Mandrills 		[{'green': 1, 'colorless': 5}]
+ 55. Eternal Dragon 		[{'colorless': 5, 'white': 2}]
+ 56. Avenger of Zendikar 	[{'green': 2, 'colorless': 5}]
+ 57. Pine Walker 			[{'green': 2, 'colorless': 3}]
+ 58. Mold Shambler 			[{'green': 1, 'colorless': 3}]
+ 59. Terra Ravager 			[{'red': 2, 'colorless': 2}]
+ 60. Grazing Gladehart 		[{'green': 1, 'colorless': 2}]
+ 61. Tusked Colossodon 		[{'green': 2, 'colorless': 4}]
+
+--- Spells ---
+
+ 62. Warstorm Surge 		[{'red': 1, 'colorless': 5}]
+ 63. Where Ancients Tread 	[{'red': 1, 'colorless': 4}]
+ 64. Excoriate 				[{'colorless': 3, 'white': 1}]
+ 65. Tower of Fortunes 		[{'colorless': 4}]
+ 66. Street Spasm 			[{'red': 1, 'colorless': 1}]
+ 67. Hull Breach 			[{'green': 1, 'red': 1}]
+ 68. One Dozen Eyes 		[{'green': 1, 'colorless': 5}]
+ 69. Curse of Predation 	[{'green': 1, 'colorless': 2}]
+ 70. Awaken the Bear 		[{'green': 1, 'colorless': 2}]
+ 71. Traveler's Amulet 		[{'colorless': 1}]
+ 72. Arrow Storm 			[{'red': 2, 'colorless': 3}]
+ 73. Slice in Twain 		[{'green': 2, 'colorless': 2}]
+ 74. Arc Lightning 			[{'red': 1, 'colorless': 2}]
+ 75. Wrath of God 			[{'colorless': 2, 'white': 2}]
+ 76. Spawning Grounds 		[{'green': 2, 'colorless': 6}]
+ 77. Darksteel Mutation 	[{'colorless': 1, 'white': 1}]
+ 78. Titan's Strength 		[{'red': 1}]
+ 79. Sol Ring 				[{'colorless': 1}]
+ 80. Slice and Dice 		[{'red': 2, 'colorless': 4}]
+ 81. Rush of Battle 		[{'colorless': 3, 'white': 1}]
+ 82. Battlewise Valor 		[{'colorless': 1, 'white': 1}]
+ 83. Fires of Yavimaya 		[{'red': 1, 'colorless': 1, 'green': 1}]
+ 84. Aura Mutation 			[{'green': 1, 'white': 1}]
+ 85. Fireball 				[{'red': 1, 'colorless': 1}]
+ 86. Boulderfall 			[{'red': 2, 'colorless': 6}]
+ 87. Swiftfoot Boots 		[{'colorless': 2}]
+ 88. Harmonize 				[{'green': 2, 'colorless': 2}]
+ 89. Druidic Satchel 		[{'colorless': 3}]
+ 90. Fall of the Hammer 	[{'red': 1, 'colorless': 1}]
+ 91. Boros Charm 			[{'red': 1, 'white': 1}]
+ 92. Behemoth Sledge 		[{'green': 1, 'colorless': 1, 'white': 1}]
+ 93. Seer's Sundial 		[{'colorless': 4}]
+ 94. Messenger's Speed 		[{'red': 1}]
+ 95. Savage Twister 		[{'red': 1, 'colorless': 1, 'green': 1}]
+ 96. Bramblecrush 			[{'green': 2, 'colorless': 2}]
+ 97. Naya Charm 			[{'green': 1, 'red': 1, 'white': 1}]
+ 98. Trumpet Blast 			[{'red': 1, 'colorless': 2}]
+ 99. Fiery Justice 			[{'green': 1, 'red': 1, 'white': 1}]
